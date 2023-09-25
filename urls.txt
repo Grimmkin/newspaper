@@ -1,7 +1,8 @@
-SCRAPPED - FAST
+HUMAN
 https://www.naijanews.com/page/19/?s=palliative
 https://www.naijanews.com/page/8/?s=relief
 
+SCRAPPED - FAST
 https://guardian.ng/?s=palliative&page=27
 https://guardian.ng/?s=relief&page=43
 
@@ -21,48 +22,40 @@ https://nigerianpilot.news/page/16/?s=relief&post_type=post
 https://nigerianobservernews.com/page/8/?s=palliative
 https://nigerianobservernews.com/page/9/?s=relief
 
+
 https://nigeriaworld.com/cgi-bin/search/search.pl?Realm=&Match=1&Terms=palliative&maxhits=10&Rank=91
 https://nigeriaworld.com/cgi-bin/search/search.pl?Realm=&Match=1&Terms=relief&maxhits=10&Rank=91
 
 UNSCRAPPABLE
-https://www.vanguardngr.com/page/15/?s=palliative&posts_per_page=15
-https://www.vanguardngr.com/page/35/?s=subsidy&posts_per_page=15
+https://www.vanguardngr.com/page/15/?s=palliative&posts_per_page=15&posts_per_page=15
 
 https://www.peoplesdailyng.com/page/30/?s=palliative
 https://www.peoplesdailyng.com/page/26/?s=relief
-https://www.peoplesdailyng.com/page/50/?s=subsidy
 
 SLOW
 https://leadership.ng/page/43/?s=palliative
-https://leadership.ng/page/85/?s=subsidy
 https://leadership.ng/page/34/?s=relief
 
 https://punchng.com/page/70/?s=palliative
-https://punchng.com/page/29/?s=subsidy
 https://punchng.com/page/2/?s=relief
 
 https://thisdaylive.com/search?s=palliative
 https://thisdaylive.com/search?s=relief
-https://thisdaylive.com/search?s=subsidy
 
 https://tribuneonlineng.com/page/20/?s=palliative
-https://tribuneonlineng.com/page/33/?s=subsidy
 https://tribuneonlineng.com/page/2/?s=relief
 
 https://newtelegraphng.com/page/15/?s=palliative
-https://newtelegraphng.com/page/16/?s=subsidy
 https://newtelegraphng.com/page/38/?s=relief
 
 https://championnews.com.ng/?s=palliative
-https://championnews.com.ng/?s=relief
-https://championnews.com.ng/?s=subsidy
-
-https://independent.ng/page/19/?s=palliative
-https://independent.ng/page/37/?s=subsidy
-
-https://thewillnews.com/page/16/?s=palliative
-https://thewillnews.com/page/7/?s=subsidy
 
 https://nigeriannewsdirect.com/page/10/?s=palliative
-https://nigeriannewsdirect.com/page/15/?s=subsidy
+
+https://independent.ng/page/19/?s=palliative
+
 https://nigeriannewsdirect.com/page/1/?s=relief
+
+https://thewillnews.com/page/16/?s=palliative
+
+
